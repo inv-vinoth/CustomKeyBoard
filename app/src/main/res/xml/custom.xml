@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="12.50%p"
+    android:keyHeight="10%p" >
+
+    <Row>
+        <Key android:codes="55"    android:keyLabel="V" android:keyEdgeFlags="left" />
+        <Key android:codes="56"    android:keyLabel="B" />
+        <Key android:codes="57"    android:keyLabel="Vignesh" />
+        <Key android:codes="65"    android:keyLabel="Thala" android:horizontalGap="6.25%p" />
+        <Key android:codes="66"    android:keyLabel="Dubs" />
+        <Key android:codes="-5"    android:keyLabel="Invicara" android:isRepeatable="true" android:horizontalGap="6.25%p" />
+        <Key android:codes="55006" android:keyLabel="CLR" android:keyEdgeFlags="right"/>
+    </Row>
+
+</Keyboard>
